@@ -2,7 +2,7 @@ version: 2
 
 models:
 
-  - name: POSITION_ABC_BANK
+  - name: position_abc_bank
     description: The positions we have in the ABC Bank portfolio.
     columns:
       - name: UNREALIZED_PROFIT
