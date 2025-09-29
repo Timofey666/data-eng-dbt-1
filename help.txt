@@ -1,0 +1,30 @@
+1. Install dbt
+pip install dbt
+
+2. Create a new repository
+https://github.com/Timofey666/data-eng-dbt-1
+
+3. Clone repository
+PS D:\_Job\Learn> git clone https://github.com/Timofey666/data-eng-dbt-1.git
+
+4. Create Snowflake account
+https://signup.snowflake.com/?trial=student
+
+https://mrmdubp-bd62615.snowflakecomputing.com/console/login
+
+Timofey
+Am$terd@m_212_12345
+
+5. Create database DATA_ENG_DBT
+
+6. Create schema AK
+
+5. Initialize dbt
+D:\_Job\Learn\data-eng-dbt-1> dbt init --project-name dbt_book
+
+
+MRMDUBP-BD62615
+TIMOFEY
+DATA_ENG_DBT
+COMPUTE_WH
+AK
