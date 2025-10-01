@@ -27,7 +27,7 @@ clean-targets:
 # Full documentation: https://docs.getdbt.com/docs/configuring-models
 models:
   portfolio_tracking_dbt:
-    #default
+    # default
     +materialized: view
 
     # models/staging/
